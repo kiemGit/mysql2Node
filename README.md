@@ -2,6 +2,15 @@
 
 ## Showing you how to work with MySQL in Node
 
+#### Install Node version v20.12.2
+
+1. `sudo apt upgrade`
+2. `sudo apt upgrade`
+3. `sudo apt install -y curl`
+4. `$ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -`
+5. `$ sudo apt install -y nodejs`
+6. `$ node --version`
+
 #### How to run this project
 
 1. Clone Repo to local machine `git clone https://github.com/kiemGit/mysql2Node.git`
