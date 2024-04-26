@@ -18,3 +18,9 @@
 
 #### Node 
 - Node version v20.12.2
+
+#### Mysql 
+- Server version: 5.5.10 MySQL Community Server (GPL)
+
+#### OS 
+- Ubuntu 22.04.2 LTS
